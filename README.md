@@ -3,7 +3,7 @@
 Scraping right-wing incidents in North Rhine-Westphalia (_Nordrhein-Westfalen_), Germany as monitored by the NGO [Opferberatung Rheinland](https://www.opferberatung-rheinland.de).
 
 -   Website: <https://www.opferberatung-rheinland.de/chronik-der-gewalt>
--   Data: <https://morph.io/rechtegewalt/response-scraper>
+-   Data: <https://morph.io/rechtegewalt/opferberatung-rheinland-scraper>
 
 ## Usage
 

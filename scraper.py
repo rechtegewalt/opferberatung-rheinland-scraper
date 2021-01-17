@@ -1,14 +1,9 @@
 import re
-from typing import SupportsRound
 
 import dataset
 import get_retries
 from bs4 import BeautifulSoup
 from dateparser import parse
-
-from hashlib import md5
-
-from tqdm import tqdm
 
 db = dataset.connect("sqlite:///data.sqlite")
 
